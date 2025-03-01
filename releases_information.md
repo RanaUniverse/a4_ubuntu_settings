@@ -27,24 +27,24 @@ By running this upper command i will get a zip file of the name of my desired fi
 
 
 
-## 🌟 Version 1: Simple & Minimal  
+## 🌟 Version 0: Simple & Minimal for Starting
 
 This version focuses on **a clean and simple interface** with most essential extensions:  
 
+
 ### 🔹 Included Extensions:  
-- [Dash To Panel - Version: 99](https://extensions.gnome.org/extension/1160/dash-to-panel/)  
-- [Clipboard Indicator - Version: 99](https://extensions.gnome.org/extension/779/clipboard-indicator/)  
-- [Notification Banner Reloaded - Version: 99](https://extensions.gnome.org/extension/4651/notification-banner-reloaded/)  
-- [Panel Note - Version: 99](https://extensions.gnome.org/extension/6718/panel-note/)  
+- [**Dash To Panel**](https://extensions.gnome.org/extension/1160/dash-to-panel/): by *charlesg99* (Version: 65)  
+- [**Clipboard Indicator**](https://extensions.gnome.org/extension/779/clipboard-indicator/): by *Tudmotu* (Version: 66)  
+- [**Notification Banner Reloaded**](https://extensions.gnome.org/extension/4651/notification-banner-reloaded/): by *Marcin Jakubowski* (Version: 12)  
+- [**Panel Note**](https://extensions.gnome.org/extension/6718/panel-note/): by *lakoisfun* (Version: 3)  
 
 
 
 
+## 🚀 Version 1: Enhanced Experience  
 
+This version i will make for support on **Ubuntu 24.04 LTS** with constantly improving New things.
 
-## 🚀 Version 2: Enhanced Experience  
-
-This version builds on **Version 1** and adds new features for accessibility and usability.  
 
 ### 🔹 New Additions:  
 - [Eye On Cursor - Version: 99](https://extensions.gnome.org/extension/7036/eye-on-cursor/) – Highlights the cursor for better visibility.  
